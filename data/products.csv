@@ -1,0 +1,32 @@
+ProductName;Weight;Amount;Fragile
+cereal;0.50;300;FALSE
+chair;4.00;60;FALSE
+cheese;0.25;20;FALSE
+yoghurt;0.10;1200;TRUE
+ice cream;0.05;2400;TRUE
+t-shirt;1.00;700;FALSE
+sneakers;1.00;30;FALSE
+coolant;1.50;14;FALSE
+floor polisher;0.75;73;FALSE
+tv;10.00;900;TRUE
+laptop;3.00;670;TRUE
+frozen pizza;0.40;400;FALSE
+egg carton (x6);0.30;420;TRUE
+egg carton (x8);0.40;420;TRUE
+egg carton (x10);0.50;450;TRUE
+beef meat;0.50;60;FALSE
+chicken breast;0.50;150;FALSE
+milk carton;1.00;510;FALSE
+perfume;0.10;200;TRUE
+wine;0.75;1800;TRUE
+whiskey;0.75;1600;TRUE
+couch;25.00;60;FALSE
+A/C unit;8.00;48;TRUE
+wheels;5.00;84;FALSE
+water;2.0;500;FALSE
+beer;0.33;1200;TRUE
+patrunjel;0.3;300;FALSE
+patrunjel;0.3;300;FALSE
+patrunjel;0.3;300;FALSE
+sad;0.3;12;TRUE
+candle;0.3;300;TRUE

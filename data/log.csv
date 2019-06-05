@@ -1,0 +1,11 @@
+
+Loaded Vehicle B 11 ABC with product with ID=3(x3)
+checked to see if Bucuresti can be serviced. Result=false
+checked to see if Timisoara can be serviced. Result=false
+Tried to load product with ID=1(x300)into Vehicle with ID=1. Operation failed
+Added CargoVan B 12 CUC to vehicle garage
+Added patrunjel to product library (x300)
+Added patrunjel to product library (x300)
+Added patrunjel to product library (x300)
+Added sad to product library (x12)
+Added candle to product library (x300)
